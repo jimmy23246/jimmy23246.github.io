@@ -378,6 +378,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .img-9-style{
 	width:107px;
 }
+.about-skill{
+	font-family:"ProximaNova-Bold";
+	font-size:18px;
+}
+.about-skilltext{
+	font-family:"ProximaNova-Light";
+	font-size:14px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
